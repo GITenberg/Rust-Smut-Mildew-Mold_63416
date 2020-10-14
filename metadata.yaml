@@ -1,0 +1,24 @@
+_repo: Rust-Smut-Mildew-Mold_63416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, M. C. (Mordecai Cubitt)
+    alias: Cooke, Mordecai Cubitt
+    birthdate: 1825
+    deathdate: 1914
+    gutenberg_agent_id: '34419'
+    url: http://www.gutenberg.org/2009/agents/34419
+    wikipedia: http://en.wikipedia.org/wiki/Mordecai_Cubitt_Cooke
+description: ''
+gutenberg_issued: '2020-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rust, Smut, Mildew, & Mold
+url: http://www.gutenberg.org/ebooks/63416
